@@ -1,0 +1,47 @@
+{
+  "name": "image-props",
+  "version": "0.1.0",
+  "description": "Image Properties of Image",
+  "scripts": {
+    "test": "mocha -R spec --recursive test"
+  },
+  "keywords": [
+    "image",
+    "properties",
+    "props",
+    "image props",
+    "image-props",
+    "size",
+    "background color",
+    "javascript",
+    "image properties",
+    "javascript image",
+    "top 10 colors",
+    "colors",
+    "top",
+    "pixels",
+    "image width",
+    "image height",
+    "image pixels"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibabanadh/image-props.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saibabanadh/image-props/issues"
+  },
+  "homepage": "https://github.com/saibabanadh/image-props#readme",
+  "author": "Sai Baba Nadh Konda <saibabanadh@gmail.com> (http://github.com/saibabanadh)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "mocha": "^7.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ndarray": "^1.0.19",
+    "pngjs": "^5.0.0"
+  }
+}

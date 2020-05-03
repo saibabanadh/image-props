@@ -1,0 +1,8 @@
+src/
+test/
+img/
+node_modules/
+notes.md
+.gitignore
+package-lock.json
+gulpfile.js
