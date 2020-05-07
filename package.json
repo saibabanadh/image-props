@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Image Properties of Image",
   "scripts": {
-    "test": "mocha -R spec --recursive test"
+    "test": "mocha -R spec --recursive test",
+    "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha test/*.spec.js"
   },
   "keywords": [
     "image",
@@ -37,6 +38,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-minify": "^3.1.0",
+    "istanbul": "^0.4.5",
     "mocha": "^7.1.2"
   },
   "dependencies": {
