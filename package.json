@@ -42,7 +42,7 @@
     "mocha": "^7.1.2"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ndarray": "^1.0.19",
     "pngjs": "^5.0.0"
   }
